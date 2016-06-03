@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: f3597b8ca05c5452d84831b4a56a460e
+timeCreated: 1459444183
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Basilar_Artery
+    100002: //RootNode
+    100004: L_Anterior_Cerebral_Artery
+    100006: L_Internal_Carotid_Artery
+    100008: L_Middle_Cerebral_Artery
+    100010: L_Ophthalmic_Artery
+    100012: L_PCA_P01
+    100014: L_PCA_P02
+    100016: L_PCA_P03
+    100018: L_PCA_P04
+    100020: L_Posterior_Communicating_Artery
+    100022: L_Superior_cerebellar_Artery
+    100024: L_Vertebral_Artery
+    100026: R_Anterior_Cerebral_Artery
+    100028: R_Internal_Carotid_Artery
+    100030: R_Middle_Cerebral_Artery
+    100032: R_Ophthalmic_Artery
+    100034: R_PCA_P01
+    100036: R_PCA_P02
+    100038: R_PCA_P03
+    100040: R_PCA_P04
+    100042: R_Posterior_Communicating_Artery
+    100044: R_Superior_cerebellar_Artery
+    100046: R_Vertebral_Artery
+    400000: Basilar_Artery
+    400002: //RootNode
+    400004: L_Anterior_Cerebral_Artery
+    400006: L_Internal_Carotid_Artery
+    400008: L_Middle_Cerebral_Artery
+    400010: L_Ophthalmic_Artery
+    400012: L_PCA_P01
+    400014: L_PCA_P02
+    400016: L_PCA_P03
+    400018: L_PCA_P04
+    400020: L_Posterior_Communicating_Artery
+    400022: L_Superior_cerebellar_Artery
+    400024: L_Vertebral_Artery
+    400026: R_Anterior_Cerebral_Artery
+    400028: R_Internal_Carotid_Artery
+    400030: R_Middle_Cerebral_Artery
+    400032: R_Ophthalmic_Artery
+    400034: R_PCA_P01
+    400036: R_PCA_P02
+    400038: R_PCA_P03
+    400040: R_PCA_P04
+    400042: R_Posterior_Communicating_Artery
+    400044: R_Superior_cerebellar_Artery
+    400046: R_Vertebral_Artery
+    2300000: Basilar_Artery
+    2300002: L_Anterior_Cerebral_Artery
+    2300004: L_Internal_Carotid_Artery
+    2300006: L_Middle_Cerebral_Artery
+    2300008: L_Ophthalmic_Artery
+    2300010: L_PCA_P01
+    2300012: L_PCA_P02
+    2300014: L_PCA_P03
+    2300016: L_PCA_P04
+    2300018: L_Posterior_Communicating_Artery
+    2300020: L_Superior_cerebellar_Artery
+    2300022: L_Vertebral_Artery
+    2300024: R_Anterior_Cerebral_Artery
+    2300026: R_Internal_Carotid_Artery
+    2300028: R_Middle_Cerebral_Artery
+    2300030: R_Ophthalmic_Artery
+    2300032: R_PCA_P01
+    2300034: R_PCA_P02
+    2300036: R_PCA_P03
+    2300038: R_PCA_P04
+    2300040: R_Posterior_Communicating_Artery
+    2300042: R_Superior_cerebellar_Artery
+    2300044: R_Vertebral_Artery
+    3300000: Basilar_Artery
+    3300002: L_Anterior_Cerebral_Artery
+    3300004: L_Internal_Carotid_Artery
+    3300006: L_Middle_Cerebral_Artery
+    3300008: L_Ophthalmic_Artery
+    3300010: L_PCA_P01
+    3300012: L_PCA_P02
+    3300014: L_PCA_P03
+    3300016: L_PCA_P04
+    3300018: L_Posterior_Communicating_Artery
+    3300020: L_Superior_cerebellar_Artery
+    3300022: L_Vertebral_Artery
+    3300024: R_Anterior_Cerebral_Artery
+    3300026: R_Internal_Carotid_Artery
+    3300028: R_Middle_Cerebral_Artery
+    3300030: R_Ophthalmic_Artery
+    3300032: R_PCA_P01
+    3300034: R_PCA_P02
+    3300036: R_PCA_P03
+    3300038: R_PCA_P04
+    3300040: R_Posterior_Communicating_Artery
+    3300042: R_Superior_cerebellar_Artery
+    3300044: R_Vertebral_Artery
+    4300000: R_Internal_Carotid_Artery
+    4300002: R_Middle_Cerebral_Artery
+    4300004: R_Ophthalmic_Artery
+    4300006: R_PCA_P01
+    4300008: R_PCA_P02
+    4300010: R_PCA_P03
+    4300012: R_PCA_P04
+    4300014: R_Posterior_Communicating_Artery
+    4300016: R_Superior_cerebellar_Artery
+    4300018: R_Vertebral_Artery
+    4300020: Basilar_Artery
+    4300022: R_Anterior_Cerebral_Artery
+    4300024: L_Vertebral_Artery
+    4300026: L_Internal_Carotid_Artery
+    4300028: L_Superior_cerebellar_Artery
+    4300030: L_PCA_P01
+    4300032: L_Posterior_Communicating_Artery
+    4300034: L_Anterior_Cerebral_Artery
+    4300036: L_PCA_P02
+    4300038: L_PCA_P04
+    4300040: L_PCA_P03
+    4300042: L_Ophthalmic_Artery
+    4300044: L_Middle_Cerebral_Artery
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
