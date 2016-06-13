@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class SelectableObject : MonoBehaviour
@@ -11,7 +12,10 @@ public class SelectableObject : MonoBehaviour
 	private bool isHilight = false;			// if hilighted 
 	private ShowHideParts ShowHideParts;
 	
+	private Text description;				// reference to a gui text object attached to g.o if available
+	
 	private void Awake() {
+		
 		
 		ShowHideParts = gameObject.AddComponent<ShowHideParts>();
 			
@@ -28,6 +32,8 @@ public class SelectableObject : MonoBehaviour
 	
 	void Start()
 	{
+   	 	description = transform.parent.GetComponent<Text>();
+				
    	 	mySkin = Resources.Load("styles") as GUISkin;
 	}
 	
@@ -37,7 +43,6 @@ public class SelectableObject : MonoBehaviour
 	
 	public void Deselect(){
 		ShowHideParts.ChangeMaterialColor(gameObject, origMaterials, "original");
-		
 	}
 	
 	public void Select(){
@@ -78,15 +83,30 @@ public class SelectableObject : MonoBehaviour
 		GUI.skin = mySkin;	
 		if (isHovering)
 		{
+			// create tooltip text
 			string txt =  transform.parent.name; 
-			Rect labelRect = GUILayoutUtility.GetRect(new GUIContent(txt), "label");
-			m_SelectionWindowRect.x = Input.mousePosition.x + 30;
-			m_SelectionWindowRect.y = Screen.height-Input.mousePosition.y - 30;
-			m_SelectionWindowRect.width = labelRect.width;
-			m_SelectionWindowRect.height = labelRect.height;
+			if (description){
+				txt = transform.parent.name + "\n" + description.text;
+			}
+			
+			Rect rt = GUILayoutUtility.GetRect(new GUIContent(txt), "infolabel");
+			
+			if (rt.Contains(Event.current.mousePosition)){
+				
+				GUI.Label(new Rect(0, 20, 100, 70), txt);
 						
-			GUI.Label(m_SelectionWindowRect,txt);
+			}
+			
+			m_SelectionWindowRect.width = rt.width;
+			m_SelectionWindowRect.height = rt.height;
+			m_SelectionWindowRect.x = (Input.mousePosition.x < 2*Screen.width/3)? Input.mousePosition.x+10 : Input.mousePosition.x-rt.width-10;
+			m_SelectionWindowRect.y = Screen.height-Input.mousePosition.y - 30;
+							
+			GUI.Label(m_SelectionWindowRect, new GUIContent(txt), "infolabel");
+						
 		}
+		
+		
 				
 	}
 		
