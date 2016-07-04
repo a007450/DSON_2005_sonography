@@ -1,7 +1,316 @@
 Base path: /Applications/Unity/Unity.app/Contents
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2009067520
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1962160128
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=4293 outsize=665 ok=1
+Cmd: preprocess
+  insize=3345 outsize=733 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=1089 outsize=669 kw= ok=1
+  api=0 type=0 insize=1243 outsize=401 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=1089 outsize=6 kw= ok=1
+  api=0 type=1 insize=1243 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1976 outsize=520 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1976 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=4248 outsize=578 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2095 outsize=1815 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2095 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3378 outsize=730 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1276 outsize=401 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1276 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1976 outsize=520 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1976 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3686 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1584 outsize=401 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1584 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1976 outsize=520 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1976 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3774 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1672 outsize=620 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1672 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1976 outsize=520 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1976 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3772 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1670 outsize=620 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1670 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3833 outsize=731 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1731 outsize=620 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1731 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3921 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1819 outsize=1405 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1819 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1976 outsize=520 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1976 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3962 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (111): 'mask' :  no such field in structure; '' : unsupported construction; 'assign' :  cannot convert from 'vec4' to 'structure'\nCompiling Vertex program
+  api=0 type=0 insize=2017 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4061 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2116 outsize=1524 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2116 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=4109 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (116): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2164 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4149 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (117): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2204 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4189 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (118): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2244 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4241 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2296 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4251 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (121): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2306 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4211 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure\nCompiling Vertex program
+  api=0 type=0 insize=2266 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4203 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'posInObjectCoords' :  no such field in structure; '' : unsupported construction; 'assign' :  cannot convert from 'vec4' to 'structure'\nCompiling Vertex program
+  error: 2 plat 0 at (128): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (136): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (143): 'posInObjectCoords' :  no such field in structure; 'constructor' : can't convert; 'tex2D' :  unable to suitably promote arguments to function; 'xyz' : vector field selection out of range\nCompiling Vertex program
+  api=0 type=0 insize=2258 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4192 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (128): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (136): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (143): 'posInObjectCoords' :  no such field in structure; 'constructor' : can't convert; 'tex2D' :  unable to suitably promote arguments to function; 'xyz' : vector field selection out of range\nCompiling Vertex program
+  api=0 type=0 insize=2247 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4234 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (129): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (137): 'posInObjectCoords' :  no such field in structure; 'z' :  no such field in structure; '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'in structure' and a right operand of type 'float' (or there is no acceptable conversion)\nCompiling Vertex program
+  error: 2 plat 0 at (144): 'posInObjectCoords' :  no such field in structure; 'constructor' : can't convert; 'tex2D' :  unable to suitably promote arguments to function; 'xyz' : vector field selection out of range\nCompiling Vertex program
+  api=0 type=0 insize=2289 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4195 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=2250 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4192 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=2247 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4176 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=2231 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3887 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (115): 'vertexOutput' : undeclared identifier; 'output' : syntax error syntax error\nCompiling Vertex program
+  api=0 type=0 insize=1942 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3878 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'textcoord' :  no such field in structure; 'constructor' : can't convert; 'assign' :  cannot convert from 'in structure' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=1933 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3876 outsize=733 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'texcoord' :  no such field in structure; '' : unsupported construction; 'assign' :  cannot convert from 'vec2' to 'structure'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=1931 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3875 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (120): 'assign' :  cannot convert from 'vec2' to 'vec4'\nCompiling Vertex program
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=1930 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3875 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (121): 'assign' :  cannot convert from 'vec3' to 'vec4'\nCompiling Vertex program
+  api=0 type=0 insize=1930 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3875 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1930 outsize=0 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1930 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=4239 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2294 outsize=1590 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2294 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3954 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2009 outsize=1590 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2009 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3954 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2009 outsize=1590 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2009 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3996 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (121): 'normal' : syntax error syntax error\nCompiling Vertex program
+  api=0 type=0 insize=2051 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3966 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2021 outsize=1501 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2021 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3954 outsize=732 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (134): 'IN' : undeclared identifier; 'texcoord' : illegal vector field selection\nCompiling Vertex program
+  api=0 type=0 insize=2009 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3957 outsize=732 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2012 outsize=1524 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2012 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3961 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2016 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2016 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3779 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1834 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1834 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3471 outsize=733 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1526 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1526 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1819 outsize=1601 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1819 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1526 outsize=882 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1526 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3439 outsize=725 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1803 outsize=1389 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1803 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1518 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1518 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3471 outsize=733 ok=1
+Cmd: preprocess
+  insize=3515 outsize=777 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1819 outsize=1405 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1819 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1526 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1526 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3511 outsize=773 ok=1
+Cmd: preprocess
+  insize=3512 outsize=774 ok=1
+Cmd: preprocess
+  insize=3511 outsize=773 ok=1
+Cmd: preprocess
+  insize=3471 outsize=733 ok=1
+Cmd: preprocess
+  insize=3443 outsize=724 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1805 outsize=1391 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1805 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1519 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1519 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1805 outsize=1587 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1805 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1519 outsize=882 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1519 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3506 outsize=787 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1805 outsize=1391 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1805 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1519 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1519 outsize=6 kw= ok=1
