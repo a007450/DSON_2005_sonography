@@ -5,15 +5,26 @@ body {
 	background-color: #000;
 	overflow: hidden;
 }
-#canvas,#loadingBox{
-	width: 1024px;
-	height: 650px;
+#canvas{
+
 	position: absolute;
+	text-align: center;
     top:0;
     bottom: 0;
     left: 0;
     right: 0;
     margin: auto;
+   
+}
+
+#loadingBox{
+	width: 250px;
+	height: 195px;
+	position: relative;
+	margin: 10% auto;
+	text-align: center;
+	background-repeat: no-repeat;
+    background-position: 3em;	
 }
 
 #progressBar {
@@ -25,10 +36,10 @@ body {
 	background-color: #fff;
 }
 #loadingInfo {
-	position: absolute;
-	bottom:15%;
+	
+	bottom:0%;
 	color: #fff;
-	padding: 10% 0;
+	padding: 20% 0;
 	background-color: rgba(0,0,0,.5);
 	letter-spacing: 1px;
 	width: 100%;
